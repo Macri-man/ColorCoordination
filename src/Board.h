@@ -12,6 +12,7 @@
 #endif
 
 #include <vector>
+#include <map>
 
 #include "Tiles.h"
 
